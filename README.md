@@ -1,5 +1,3 @@
-# Code Refactor Starter Code
-
 # Horiseon
 ## This is the homepage made for Horiseon
 
