@@ -3,4 +3,4 @@
 
 [Link To Web Site](https://jasonmcgill.github.io/Horiseon/)
 
-![Screenshot of website](./assets/images/Horiseon-Screenshot)
+![Screenshot of website](https://raw.githubusercontent.com/jasonmcgill/Horiseon/master/assets/images/Horiseon-Screenshot.jpeg)
