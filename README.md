@@ -5,4 +5,4 @@
 
 [Link To Web Site](https://jasonmcgill.github.io/Horiseon/)
 
-![SCreenshot of website](./assets/images/Horiseon-Screenshot)
+![Screenshot of website](./assets/images/Horiseon-Screenshot)
